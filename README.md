@@ -139,9 +139,3 @@ Our route finding algorithm:
 ⭐️ Star this repo if you find it helpful!
 ---
 
-## Our Team
-   - [Sridhar Suthapalli](https://github.com/illuminati9)
-   - [Roopesh S](https://github.com/techwizard9999)
-   - [Raghava Kamuju](https://github.com/raghavakamuju)
-   - [Pavana Saketha Ram](https://github.com/pavanasaketharam)
-   - [Charan Polisetty](https://github.com/charan0313)
