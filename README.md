@@ -39,7 +39,7 @@ Due to the unavailability of official IRCTC API and data, we have used simulated
 0. Fork the repository
 1. Clone the repository
 ```sh
-https://github.com/TechWizard9999/ConnectExpress
+https://github.com/Oshangsurtani/ConnectExpress
 cd connectexpress
 ```
 
